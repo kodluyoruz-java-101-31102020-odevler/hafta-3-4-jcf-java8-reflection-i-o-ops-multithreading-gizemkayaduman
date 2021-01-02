@@ -1,14 +1,8 @@
 package soru2;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
-
-import chapter3.set.interfaces.model.Book;
-
-import java.util.List;
 
 public class Application {
 

@@ -14,8 +14,6 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.util.List;
 
-import com.io.operations.FileOperations;
-
 public class FileOperations {
 	
 public static InputStream getInputStream(String filePath, boolean fromResourceFolder) throws FileNotFoundException {
